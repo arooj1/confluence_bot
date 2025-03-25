@@ -18,6 +18,9 @@ langchain
 langchain-community
 faiss-cpu
 streamlit
+tqdm
+pydantic
+langchain_openai
 ```
 
 > 💡 *Optional additions:*
